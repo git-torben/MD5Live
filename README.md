@@ -9,4 +9,5 @@ Just open [MD5Live](https://xt0r.github.io/MD5Live/) and enter something in the 
 
 ## Credits
 UI and live hashing - [xt0r](https://www.twitter.com/_xt0r)
+
 Javascript hash generator - [blueimp](https://github.com/blueimp)
