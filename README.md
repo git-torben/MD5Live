@@ -7,7 +7,7 @@ MD5Live is a service with which you can hash everything with a live output.
 Just open [MD5Live](https://th-256.github.io/MD5Live/) and enter something in the input field above.
 
 ## Credits
-UI and live hashing - [xt0r](https://www.twitter.com/th256_)
+UI and live hashing - [th256](https://www.twitter.com/th256_)
 
 Javascript hash generator - [blueimp](https://github.com/blueimp)
 
